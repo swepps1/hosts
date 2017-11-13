@@ -16,5 +16,6 @@ I tested this module on next OS (RedHat Satellite 6.2.12):
 
 Parameters
 
-Don't have parameter because this module automatic manage /etc/hosts file in next format:
-<IP address> <FQDN> <sort name>
+Don't have parameter because this module automatic manage /etc/hosts file in next format: 
+
+"IP address" "FQDN" "sortname"
